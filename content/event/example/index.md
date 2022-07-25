@@ -37,21 +37,21 @@ featured: false
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: https://www.youtube.com/watch?v=vg9peCx3l5E&t=1258s
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides =  ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects = []
 ---
 
 Slides can be added in a few ways:
