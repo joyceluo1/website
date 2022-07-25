@@ -63,7 +63,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-\\
+\
+\
 Hi! I will be starting my PhD at the MIT Operations Research Center in the fall, where I am excited to be advised by Professor Georgia Perakis. My research interests are in healthcare and service operations management, with a particular focus on developing and applying analytical methods to help companies, policy makers, and individuals make better decisions under uncertainty. I recently graduated from Princeton University, where I studied Operations Research & Financial Engineering with minors in Computer Science and Statistics & Machine Learning. 
 
 
