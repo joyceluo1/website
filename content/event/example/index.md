@@ -1,5 +1,5 @@
 ---
-title: Equitable Data-Driven Resource Allocation to Fight the Opioid Epidemic: A Mixed-Integer Optimization Approach
+title: 'Equitable Data-Driven Resource Allocation to Fight the Opioid Epidemic: A Mixed-Integer Optimization Approach'
 
 event: Top ORFE Theses Department Showcase
 event_url: https://www.youtube.com/watch?v=vg9peCx3l5E&t=1258s
