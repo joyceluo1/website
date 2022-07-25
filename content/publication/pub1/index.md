@@ -8,6 +8,7 @@ authors:
   - admin
   - Long Chen
   - Xinyu Lu
+  - Jianbo Yuan
   - Zidian Xie
   - Dongmei Li
 
