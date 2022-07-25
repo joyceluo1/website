@@ -49,7 +49,7 @@ item:
     url: ''
   - certificate_url: 
     date_end: 
-    date_start: '2020-09'
+    date_start: '2020-09-04'
     description: ''
     organization: WNY CRoFT Annual Meeting
     organization_url: 
