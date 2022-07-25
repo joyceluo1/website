@@ -32,7 +32,14 @@ publication_types: ['2']
 publication: In *Tobacco Control*
 publication_short: 
 
-abstract: ''
+abstract: '**Background** The rise of the popular e-cigarette, JUUL, has been partly attributed to various teen-friendly e-liquid flavours offered. However, the possible health risks associated with each e-liquid flavour still remain unclear. This research focuses on the possible associations between JUUL flavours and health symptoms using social media data from Reddit.
+\
+**Methods** Keyword filtering was used to obtain 5,746 JUUL flavour-related posts and 7927 health symptom-related posts from June 2015 to April 2019 from Reddit. Posts from September 2016 to April 2019 were used to conduct temporal analysis for nine health symptom categories and the 8 JUUL flavours. Finally, associations between the JUUL flavours and health symptom categories were examined on the user level using generalised estimating equation models.
+\
+**Results** According to our temporal analysis, Mango and Mint were the most discussed JUUL flavours on Reddit. Respiratory and throat symptoms were the most discussed health issues together with JUUL on Reddit over time. Respiratory symptoms had potential associations with the Mango, Mint and Fruit JUUL flavours. Digestive symptoms had a potential association with the Crème flavour, psychological symptoms had a potential association with the Cucumber flavour, and cardiovascular symptoms had a potential association with the tobacco flavours.
+\
+**Conclusions** Mango and Mint were the two most mentioned JUUL flavours on Reddit. Certain JUUL flavours were more likely to be mentioned together with certain categories of health symptoms by the same Reddit users. Our findings could prompt further medical research into the health symptoms associated with different e-liquid flavours.'
+
 # Summary. An optional shortened abstract.
 summary: ''
 
@@ -46,7 +53,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: https://tobaccocontrol.bmj.com/content/tobaccocontrol/30/5/534.full.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -76,13 +83,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
