@@ -48,7 +48,7 @@ social:
     link: https://scholar.google.com/citations?hl=en&user=W3TyfmIAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/joyceluo1 
+    link: https://www.linkedin.com/in/joyceluo1/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
