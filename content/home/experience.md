@@ -6,10 +6,12 @@ widget: experience
 # This file represents a page section.
 headless: true
 
+active: false
+
 # Order that this section appears on the page.
 weight: 90
 
-title: Experience
+title: Industry Experience
 subtitle:
 
 # Date format for experience
