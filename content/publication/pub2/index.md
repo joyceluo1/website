@@ -34,7 +34,7 @@ publication_types: ['2']
 publication: In *Journal of Medical Internet Research*
 publication_short: In *JMIR*
 
-abstract: The number of electronic cigarette (e-cigarette) users has been increasing rapidly in recent years, especially
+abstract: 'The number of electronic cigarette (e-cigarette) users has been increasing rapidly in recent years, especially
 among youth and young adults. More e-cigarette products have become available, including e-liquids with various brands and
 flavors. Various e-liquid flavors have been frequently discussed by e-cigarette users on social media. This study aimed to examine the longitudinal prevalence of mentions of electronic cigarette liquid (e-liquid) flavors
 and user perceptions on social media. We applied a data-driven approach to analyze the trends and macro-level user sentiments of different e-cigarette
@@ -49,7 +49,7 @@ flavor categories that did not show much change over time. Results from the sent
 flavor categories had significant positive sentiments, except for the beverage and tobacco categories. The most updated information about the popular e-liquid flavors mentioned on social media was investigated,
 which showed that the prevalence of mentions of e-liquid flavors and user perceptions on social media were different. Fruit was
 the most frequently discussed flavor category on social media. Our study provides valuable information for future regulation of
-flavored e-cigarettes.
+flavored e-cigarettes.'
 
 
 # Summary. An optional shortened abstract.
