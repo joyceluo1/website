@@ -32,13 +32,13 @@ publication_types: ['2']
 publication: In *Tobacco Control*
 publication_short: 
 
-abstract: **Background** The rise of the popular e-cigarette, JUUL, has been partly attributed to various teen-friendly e-liquid flavours offered. However, the possible health risks associated with each e-liquid flavour still remain unclear. This research focuses on the possible associations between JUUL flavours and health symptoms using social media data from Reddit.
-\
+abstract: '**Background** The rise of the popular e-cigarette, JUUL, has been partly attributed to various teen-friendly e-liquid flavours offered. However, the possible health risks associated with each e-liquid flavour still remain unclear. This research focuses on the possible associations between JUUL flavours and health symptoms using social media data from Reddit.
+\n
 **Methods** Keyword filtering was used to obtain 5,746 JUUL flavour-related posts and 7927 health symptom-related posts from June 2015 to April 2019 from Reddit. Posts from September 2016 to April 2019 were used to conduct temporal analysis for nine health symptom categories and the 8 JUUL flavours. Finally, associations between the JUUL flavours and health symptom categories were examined on the user level using generalised estimating equation models.
-\
+\n
 **Results** According to our temporal analysis, Mango and Mint were the most discussed JUUL flavours on Reddit. Respiratory and throat symptoms were the most discussed health issues together with JUUL on Reddit over time. Respiratory symptoms had potential associations with the Mango, Mint and Fruit JUUL flavours. Digestive symptoms had a potential association with the Crème flavour, psychological symptoms had a potential association with the Cucumber flavour, and cardiovascular symptoms had a potential association with the tobacco flavours.
-\
-**Conclusions** Mango and Mint were the two most mentioned JUUL flavours on Reddit. Certain JUUL flavours were more likely to be mentioned together with certain categories of health symptoms by the same Reddit users. Our findings could prompt further medical research into the health symptoms associated with different e-liquid flavours.
+\n
+**Conclusions** Mango and Mint were the two most mentioned JUUL flavours on Reddit. Certain JUUL flavours were more likely to be mentioned together with certain categories of health symptoms by the same Reddit users. Our findings could prompt further medical research into the health symptoms associated with different e-liquid flavours.'
 
 # Summary. An optional shortened abstract.
 summary: ''
