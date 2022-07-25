@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ['PDF'](https://tobaccocontrol.bmj.com/content/30/5/534)
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
