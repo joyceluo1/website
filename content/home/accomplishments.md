@@ -40,7 +40,7 @@ item:
     title: Undergraduate Research Poster Session Winner
     url: ''
   - certificate_url: 
-    date_end: Present
+    date_end: ''
     date_start: '2020-04-04'
     description: ''
     organization: National Science Foundation
