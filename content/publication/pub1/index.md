@@ -32,7 +32,14 @@ publication_types: ['2']
 publication: In *Tobacco Control*
 publication_short: 
 
+abstract: ''
+# Summary. An optional shortened abstract.
+summary: ''
+
 tags: []
+
+# Display this page in the Featured widget?
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
