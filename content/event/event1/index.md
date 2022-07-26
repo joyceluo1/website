@@ -12,12 +12,12 @@ address:
   postcode: '08544'
   country: United States
 
-summary: 
+summary: Authors of the top 8 ORFE senior theses were invited to present their work to the department. 
 abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-05-04'
+date: '2022-05-04T15:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
