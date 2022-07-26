@@ -1,10 +1,10 @@
 ---
 title: 'Equitable Data-Driven Resource Allocation to Fight the Opioid Epidemic: A Mixed-Integer Optimization Approach'
 
-event: Top ORFE Theses Department Showcase
+# event: Top ORFE Theses Department Showcase
 event_url: ''
 
-location: Princeton University
+location: Top ORFE Theses Department Showcase
 address:
   street: ''
   city: Princeton
