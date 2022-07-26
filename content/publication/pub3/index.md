@@ -6,7 +6,7 @@ title: 'A Social Media Study on the Associations of Flavored Electronic Cigarett
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Long Chen
-  - Xinyu Lu
+  - Xinyi Lu
   - Jianbo Yuan
   - admin
   - Jiebo Luo
