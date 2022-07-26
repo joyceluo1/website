@@ -9,7 +9,7 @@ appearance:
   theme_day: forest
   theme_night: forest
   font: classic
-  font_size: M
+  font_size: S
 
 # SEO
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,7 +35,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
@@ -43,11 +43,11 @@ header:
 
 footer:
   copyright:
-    notice: '© 2022 Joyce Luo. This work is licensed under {license}'
+    notice: '© 2022 Joyce Luo.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
