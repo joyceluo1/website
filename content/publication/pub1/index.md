@@ -7,7 +7,7 @@ title: 'Analysis of potential associations of JUUL flavours with health symptoms
 authors:
   - admin
   - Long Chen
-  - Xinyu Lu
+  - Xinyi Lu
   - Jianbo Yuan
   - Zidian Xie
   - Dongmei Li
