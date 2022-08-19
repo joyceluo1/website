@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Operations Research
       institution: Massachusetts Insitute of Technology
-      year: 2027
+      year: Expected 2027
     - course: BSE in Operations Research & Financial Engineering
       institution: Princeton University
       year: 2022
