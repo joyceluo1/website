@@ -23,13 +23,13 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['7']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Paper in preparation
+publication: arXiv:2301.06179
 publication_short: 
 
-abstract: 'The opioid epidemic is a crisis that has plagued the United States (US) for decades. One of the central issues of the epidemic is inequitable access to treatment for opioid use disorder (OUD), which puts certain populations at a higher risk of opioid overdose. This issue has not yet been systematically addressed using computational methods. In this work, we use real-world data and optimization to formulate the problem of finding the optimal locations of opioid treatment facilities and the optimal treatment budget distribution in each US state. To capture the dynamics of the changing opioid epidemic, we develop a state-level differential equation-based epidemiological model. We fit this model to current opioid epidemic data using neural ordinary differential equations, a useful framework that allows us to embed differential equations into a neural network layer. We then integrate this epidemiological model for each state into a corresponding mixed-integer optimization problem (MIP) for treatment facility location and resource allocation. We seek to minimize opioid overdose deaths and the number of people with OUD. Our MIPs also target socioeconomic equitability by considering social vulnerability (from the CDC’s Social Vulnerability Index) and opioid prescribing rates in each county. Our MIPs’ proposed solutions on average decrease the number of people with OUD by 5.76 percent, increase the number of people in treatment by 21.60 percent, and decrease the number of opioid-related deaths by 0.52 percent after 2 years. This work lays the mathematical and computational foundations to assist governments, policymakers, and health professionals in combating the opioid epidemic.'
+abstract: 'The opioid epidemic is a crisis that has plagued the United States (US) for decades. One central issue of the epidemic is inequitable access to treatment for opioid use disorder (OUD), which puts certain populations at a higher risk of opioid overdose. We integrate a predictive dynamical model and a prescriptive optimization problem to compute the optimal locations of opioid treatment facilities and the optimal treatment budget distribution in each US state. Our predictive model is a differential equationbased epidemiological model that captures the dynamics of the opioid epidemic. We use neural ordinary differential equations to fit this model to opioid epidemic data for each state and obtain estimates for unknown parameters in the model. We then incorporate this epidemiological model for each state into a corresponding mixed-integer optimization problem (MIP) for treatment facility location and resource allocation. Our MIPs aim to minimize the number of opioid overdose deaths and the number of people with OUD, and to target socioeconomic equitability by considering social vulnerability (from the US Centers for Disease Control's Social Vulnerability Index) and opioid prescribing rates in each county. Overall, our MIPs' proposed solutions on average decrease the number of people with OUD by 5.70 $\pm$ 0.738%, increase the number of people in treatment by 21.17 $\pm$ 3.162%, and decrease the number of opioid-related deaths by 0.51 $\pm$ 0.086% after 2 years compared to the baseline epidemiological model's predictions. Rather than only evaluating the effectiveness of potential policies as in past literature, our approach is decision-focused and directly yields actionable insights for policy-makers. It provides concrete opioid treatment facility and budget allocations and quantifies the impact of these allocations on pertinent population health measures. Future iterations of this approach could be implemented as a decision-making tool to tackle the issue of opioid treatment inaccessibility.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -44,8 +44,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: https://github.com/joyceluo1/senior-thesis
+url_pdf: https://arxiv.org/pdf/2301.06179.pdf
+url_code: https://github.com/joyceluo1/mip_opioid
 url_dataset: ''
 url_poster: ''
 url_project: ''
