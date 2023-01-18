@@ -31,8 +31,8 @@ doi: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Medical Internet Research*
-publication_short: In *JMIR*
+publication: *Journal of Medical Internet Research*
+publication_short: *JMIR*
 
 abstract: 'In recent years, flavored electronic cigarettes (e-cigarettes) have become popular among teenagers and young adults. Discussions about e-cigarettes and e-cigarette use (vaping) experiences are prevalent online, making social media an ideal resource for understanding the health risks associated with e-cigarette flavors from the users’ perspective. This study aimed to investigate the potential associations between electronic cigarette liquid (e-liquid) flavors and the reporting of health symptoms using social media data.
 A dataset consisting of 2.8 million e-cigarette–related posts was collected using keyword filtering from Reddit, a social media platform, from January 2013 to April 2019. Temporal analysis for nine major health symptom categories was used to understand the trend of public concerns related to e-cigarettes. Sentiment analysis was conducted to obtain the proportions of positive and negative sentiment scores for all reported health symptom categories. Topic modeling was applied to reveal the topics related to e-cigarettes and health symptoms. 
