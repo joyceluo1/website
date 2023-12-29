@@ -41,11 +41,11 @@ item:
     url: ''
   - certificate_url: 
     date_end: ''
-    date_start: '2022-04-04'
+    date_start: '2022-09-04'
     description: ''
     organization: National Science Foundation
     organization_url: 
-    title: Graduate Research Fellowship
+    title: NSF Graduate Research Fellowship
     url: ''
   - certificate_url: 
     date_end: 
