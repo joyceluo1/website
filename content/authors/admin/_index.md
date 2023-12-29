@@ -21,6 +21,7 @@ interests:
   - Healthcare Operations Management
   - Optimization
   - Decision Analytics
+  - Machine Learning
 
 # Education to show in About widget
 education:
