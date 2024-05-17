@@ -1,5 +1,5 @@
 ---
-title: 'Equitable Data-Driven Facility Location and Resource Allocation to Fight the Opioid Epidemic'
+title: 'Frontiers in Operations: Equitable Data-Driven Facility Location and Resource Allocation to Fight the Opioid Epidemic'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,8 +13,8 @@ authors:
 # - 'Equal contribution'
 # - 'Equal contribution'
 
-date: '2023-11-08'
-doi: ''
+date: '2024-04-16'
+doi: 'https://doi.org/10.1287/msom.2023.0042'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -23,10 +23,10 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv:2301.06179
+publication: Manufacturing & Service Operations Management
 publication_short: 
 
 abstract: The opioid epidemic is a crisis that has plagued the United States (US) for decades. One central issue of the epidemic is inequitable access to treatment for opioid use disorder (OUD), which puts certain populations at a higher risk of opioid overdose. We integrate a predictive dynamical model and a prescriptive optimization problem to compute high-quality opioid treatment facility and treatment budget allocations for each US state. Our predictive model is a differential equation-based epidemiological model that captures the dynamics of the opioid epidemic. We use a process inspired by neural ordinary differential equations to fit this model to opioid epidemic data for each state and obtain estimates for unknown parameters in the model. We then incorporate this epidemiological model into a corresponding mixed-integer optimization problem (MIP) that aims to minimize the number of opioid overdose deaths and the number of people with OUD. We develop strong relaxations based on McCormick envelopes to efficiently compute approximate solutions to our MIPs that have a mean optimality gap of 3.99%. Our method provides socioeconomically equitable solutions, as it incentivizes investments in areas with higher social vulnerability (from the US Centers for Disease Control's Social Vulnerability Index) and opioid prescribing rates. On average, when allowing for overbudget solutions, our approach decreases the number of people with OUD by 9.03 ± 1.772%, increases the number of people in treatment by 88.75 ± 26.223%, and decreases the number of opioid-related deaths by 0.58 ± 0.111% after 2 years compared to the baseline epidemiological model's predictions. Our solutions show that policy-makers should target adding treatment facilities to counties that have significantly less facilities than their population share and are more socially vulnerable. Furthermore, we demonstrate that our optimization approach, guided by epidemiological and socioeconomic factors, should help inform these strategic decisions, as it yields population health benefits in comparison to benchmarks based solely on population and social vulnerability.
