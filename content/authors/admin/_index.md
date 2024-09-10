@@ -6,7 +6,7 @@ title: Joyce Luo
 superuser: true
 
 # Role/position/tagline
-role: Operations Research PhD Student
+role: Operations Research PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
