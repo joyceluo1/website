@@ -66,4 +66,4 @@ highlight_name: true
 ---
 \
 \
-Hi! I'm a 2nd year PhD student at the MIT Operations Research Center, advised by [Professor Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research interests are in healthcare and service operations management, with a particular focus on developing and applying analytical methods to help companies, policy makers, and individuals make better decisions under uncertainty. I'm currently working on projects related to scheduling and capacity management for diagnostic services in collaboration with a large Level I Trauma hospital.
+Hi! I'm a 3rd year PhD candidate at the MIT Operations Research Center, advised by [Professor Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research interests are in healthcare and service operations management, with a particular focus on developing and applying analytical methods to help companies, policy makers, and individuals make better decisions under uncertainty. I'm currently working on projects related to scheduling and capacity management for hospital diagnostic services, and optimizing support messaging for mental health patients.
