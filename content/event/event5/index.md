@@ -5,7 +5,7 @@ event_url: ''
 
 location: 2024 INFORMS Annual Meeting
 
-summary: Presented in invited session _Revenue Management: From Theory to Practice_.
+summary: Presented in invited session _Revenue Management - From Theory to Practice_.
 abstract: 
 
 # Talk start and end times.
