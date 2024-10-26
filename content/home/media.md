@@ -24,7 +24,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2024-10-15'
-    description: 'Ashley Smith'
+    description: ''
     organization: INFORMS
     organization_url: 
     title: 'Fighting the Opioid Epidemic: AI and Optimization Model Leads to More Accessible, Equitable Treatment Resource Distribution'
@@ -32,7 +32,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2024-07-02'
-    description: 'Ashley Kilgore'
+    description: ''
     organization: INFORMS Resoundingly Human Podcast 
     organization_url: 
     title: 'The Opioid Epidemic: Using OR/MS to combat the leading public health crisis'
@@ -40,7 +40,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2023-08-21'
-    description: 'Maya Bingman'
+    description: ''
     organization: MIT Solve
     organization_url: 
     title: "M'Care and MIT students join forces to improve child health in Nigeria"
@@ -48,7 +48,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2022-05-11'
-    description: 'Aaron Nathans'
+    description: ''
     organization: Princeton Engineering
     organization_url: 
     title: From pricing carbon to fighting opioid abuse, ORFE showcased top senior projects
