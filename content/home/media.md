@@ -27,7 +27,7 @@ item:
     description: 'Ashley Smith'
     organization: INFORMS
     organization_url: 
-    title: Fighting the Opioid Epidemic: AI and Optimization Model Leads to More Accessible, Equitable Treatment Resource Distribution
+    title: 'Fighting the Opioid Epidemic: AI and Optimization Model Leads to More Accessible, Equitable Treatment Resource Distribution'
     url: 'https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Fighting-the-Opioid-Epidemic-AI-and-Optimization-Model-Leads-to-More-Accessible-Equitable-Treatment-Resource-Distribution'
   - certificate_url: 
     date_end: ''
@@ -35,7 +35,7 @@ item:
     description: 'Ashley Kilgore'
     organization: INFORMS Resoundingly Human Podcast 
     organization_url: 
-    title: The Opioid Epidemic: Using OR/MS to combat the leading public health crisis
+    title: 'The Opioid Epidemic: Using OR/MS to combat the leading public health crisis'
     url: 'https://resoundinglyhuman.com/episodes/the-opioid-epidemic-using-or-ms-to-combat-the-leading-public-health-crisis/'
   - certificate_url: 
     date_end: ''
@@ -43,7 +43,7 @@ item:
     description: 'Maya Bingman'
     organization: MIT Solve
     organization_url: 
-    title: M'Care and MIT students join forces to improve child health in Nigeria
+    title: "M'Care and MIT students join forces to improve child health in Nigeria"
     url: 'https://news.mit.edu/2023/revolutionizing-child-health-nigeria-mcare-and-mit-join-forces-0821'
   - certificate_url: 
     date_end: ''
