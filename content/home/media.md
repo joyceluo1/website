@@ -13,7 +13,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 01, 2006
+date_format: January 2, 2006
 
 # Media.
 #   Add/remove as many `item` blocks below as you like.
