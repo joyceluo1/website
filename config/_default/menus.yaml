@@ -16,7 +16,7 @@ main:
   - name: Media
     url: '#media'
     weight: 40
-  - name: Media
+  - name: Teaching
     url: '#teaching'
     weight: 50
   - name: CV
