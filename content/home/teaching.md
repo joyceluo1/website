@@ -13,6 +13,10 @@ weight: 100
 title: 'Teaching Experience'
 subtitle:
 
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
@@ -21,31 +25,31 @@ subtitle:
 item:
   - certificate_url: 
     date_end: ''
-    date_start: 'IAP 2025'
+    date_start: '2025-01-14'
     description: ''
     organization: MIT Graduate Seminar
     organization_url: 
     title: 15.S60 Computing in Optimization and Statistics
     url: ''
   - certificate_url: 
-    date_end: ''
-    date_start: 'Spring 2024'
+    date_end: '2024-06-20'
+    date_start: '2024-01-20'
     description: ''
     organization: MIT Executive MBA
     organization_url: 
     title: 15.730 Data, Models, and Decisions
     url: ''
   - certificate_url: 
-    date_end: ''
-    date_start: 'Spring 2022'
+    date_end: '2024-05-20'
+    date_start: '2022-01-20'
     description: ''
     organization: Princeton Undergrad
     organization_url: 
     title: ORF 307 Optimization
     url: ''
   - certificate_url: 
-    date_end: 
-    date_start: 'Spring 2021'
+    date_end: '2021-05-20'
+    date_start: '2021-01-20'
     description: ''
     organization: Princeton Undergrad
     organization_url: 
