@@ -17,7 +17,7 @@ organizations:
 bio: 
 
 # Interests to show in About widget
-research focus:
+interests:
   - Healthcare Operations Management
   - Optimization
   - Decision Analytics
