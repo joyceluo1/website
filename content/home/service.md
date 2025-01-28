@@ -39,3 +39,7 @@ item:
     organization_url: 
     title: MIT INFORMS Student Chapter Vice President
     url: ''
+    
+design:
+  columns: '2'
+---
