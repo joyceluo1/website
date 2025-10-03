@@ -27,7 +27,7 @@ date: '2024-12-20'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Under review at *Management Science*
+publication: Under review.
 publication_short: 
 
 abstract: 
