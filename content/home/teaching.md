@@ -24,6 +24,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: 
+    date_end: '2025-12-01'
+    date_start: '2025-09-01'
+    description: ''
+    organization: MIT MBA & Undergraduate Course
+    organization_url: 
+    title: 15.774/15.780 Analytics of Operations Management
+    url: ''
+  - certificate_url: 
     date_end: ''
     date_start: '2025-01-14'
     description: ''
@@ -35,7 +43,7 @@ item:
     date_end: '2024-06-20'
     date_start: '2024-01-20'
     description: ''
-    organization: MIT Executive MBA
+    organization: MIT Executive MBA Course
     organization_url: 
     title: 15.730 Data, Models, and Decisions
     url: ''
@@ -43,7 +51,7 @@ item:
     date_end: '2024-05-20'
     date_start: '2022-01-20'
     description: ''
-    organization: Princeton Undergrad
+    organization: Princeton Undergraduate Course
     organization_url: 
     title: ORF 307 Optimization
     url: ''
@@ -51,7 +59,7 @@ item:
     date_end: '2021-05-20'
     date_start: '2021-01-20'
     description: ''
-    organization: Princeton Undergrad
+    organization: Princeton Undergraduate Course
     organization_url: 
     title: ORF 245 Fundamentals of Statistics
     url: ''
