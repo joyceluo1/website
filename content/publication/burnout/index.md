@@ -1,5 +1,5 @@
 ---
-title: 'Addressing Healthcare Provider Burnout: Fair Online Hospital Diagnostic Service Scheduling'
+title: 'Fair Online Hospital Diagnostic Service Scheduling: Helping Both Patients and Providers'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
