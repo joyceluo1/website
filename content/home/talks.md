@@ -26,7 +26,6 @@ content:
     exclude_future: false
     exclude_past: false
     publication_type: ''
-    show_date: false
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
