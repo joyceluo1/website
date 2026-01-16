@@ -3,14 +3,16 @@ title: 'Fair Online Hospital Diagnostic Service Scheduling: Helping Both Patient
 
 event_url: ''
 
-location: 2025 MSOM Conference
+# location: 2025 MSOM Conference
 
-summary: Extended abstract accepted for presentation in session _Resourcing and Scheduling in the Healthcare Value Chain_.
+summary: '- 2025 INFORMS Annual Meeting: Presented in invited session _Emerging Topics in Responsible and Sustainable Operations_.
+- 2025 MSOM Conference: Extended abstract accepted for presentation in session _Resourcing and Scheduling in the Healthcare Value Chain_.'
+
 abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-06-29T16:00:00Z'
+# date: '2025-06-29T16:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
