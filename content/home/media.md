@@ -55,5 +55,5 @@ item:
     url: 'https://engineering.princeton.edu/news/2022/05/11/pricing-carbon-fighting-opioid-abuse-orfe-showcased-top-senior-projects'
 
 design:
-  columns: '2'
+  view: 1
 ---
