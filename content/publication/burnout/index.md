@@ -15,7 +15,7 @@ authors:
 # - 'Equal contribution'
 # - 'Equal contribution'
 
-date: '2025-09-29'
+date: '2026-01-16'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -27,7 +27,7 @@ date: '2025-09-29'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Under review
+publication: Major Revision at _Production & Operations Management_
 publication_short: 
 
 abstract: 
