@@ -24,6 +24,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: 
+    date_end: '2026-05-31'
+    date_start: '2026-01-20'
+    description: ''
+    organization: MIT Executive MBA Course
+    organization_url: 
+    title: 15.730 Data, Models, and Decisions
+    url: ''
+  - certificate_url: 
     date_end: '2025-12-01'
     date_start: '2025-09-01'
     description: ''
@@ -40,7 +48,7 @@ item:
     title: 15.S60 Computing in Optimization and Statistics
     url: ''
   - certificate_url: 
-    date_end: '2024-06-20'
+    date_end: '2024-05-31'
     date_start: '2024-01-20'
     description: ''
     organization: MIT Executive MBA Course
