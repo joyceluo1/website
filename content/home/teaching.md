@@ -74,5 +74,4 @@ item:
 
 design:
   columns: '2'
-  view: 1
 ---
