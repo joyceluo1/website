@@ -11,6 +11,7 @@ weight: 70
 
 title: 'Presentations'
 subtitle:
+date_format: January 2006 
 
 content:
   # Page type to display. E.g. post, event, publication...
