@@ -6,8 +6,8 @@ event_url: ''
 location: 2025 MSOM Conference, 2025 INFORMS Annual Meeting
 
 summary: |
-- 2025 INFORMS Annual Meeting: Presented in invited session _Emerging Topics in Responsible and Sustainable Operations_.
-- 2025 MSOM Conference: Extended abstract accepted for presentation in session _Resourcing and Scheduling in the Healthcare Value Chain_.'
+  - 2025 INFORMS Annual Meeting: Presented in invited session _Emerging Topics in Responsible and Sustainable Operations_.
+  - 2025 MSOM Conference: Extended abstract accepted for presentation in session _Resourcing and Scheduling in the Healthcare Value Chain_.'
 
 abstract: 
 
