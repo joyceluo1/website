@@ -26,7 +26,7 @@ date: '2026-01-16'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Working paper.
+publication: Working paper
 publication_short: 
 
 abstract: 
