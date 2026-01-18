@@ -34,7 +34,7 @@ item:
   - certificate_url: 
     date_end: '2025-12-01'
     date_start: '2025-09-01'
-    description: ''
+    description: 'Rating: 6.64/7.0'
     organization: MIT MBA & Undergraduate Course
     organization_url: 
     title: 15.774/15.780 Analytics of Operations Management
@@ -50,7 +50,7 @@ item:
   - certificate_url: 
     date_end: '2024-05-31'
     date_start: '2024-01-20'
-    description: ''
+    description: 'Rating: 6.70/7.0'
     organization: MIT Executive MBA Course
     organization_url: 
     title: 15.730 Data, Models, and Decisions
