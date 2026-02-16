@@ -31,7 +31,7 @@ date: '2026-01-16'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Under Review at _Value in Health_.
+publication: Under Review at _Value in Health_
 publication_short: 
 
 abstract: 
