@@ -1,5 +1,5 @@
 ---
-title: 'The Longitudinal Adherence Trajectory (LAT) Model: A Novel Framework for Colorectal Cancer Screening Adherence Modeling'
+title: 'Adherence Modeling in Colorectal Cancer Screening Through the Longitudinal Adherence Trajectory (LAT) Framework'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -31,7 +31,7 @@ date: '2026-01-16'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Soon to be submitted
+publication: Under Review at _Value in Health_.
 publication_short: 
 
 abstract: 
