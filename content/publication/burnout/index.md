@@ -27,7 +27,7 @@ date: '2026-02-17'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Major Revision at _Production & Operations Management_
+publication: Minor Revision at _Production & Operations Management_
 publication_short: 
 
 abstract: 
