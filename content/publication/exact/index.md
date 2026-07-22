@@ -31,7 +31,7 @@ date: '2026-02-16'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Under Review
+publication: _Major Revision_ at Medical Decision Making
 publication_short: 
 
 abstract: 
