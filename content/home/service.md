@@ -24,18 +24,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: 
-    date_end: '2026-07-14'
+    date_end: 
     date_start: '2026-07-12'
     description: ''
-    organization:  
+    organization: INFORMS MSOM Conference 
     organization_url: 
     title: 2026 INFORMS MSOM Conference Volunteer
     url: ''
   - certificate_url: 
-    date_end: 
+    date_end: '2025-03-01'
     date_start: '2025-03-01'
     description: ''
-    organization:  
+    organization: INFORMS MSOM Conference
     organization_url: 
     title: INFORMS MSOM Conference Ad-Hoc Reviewer
     url: ''
