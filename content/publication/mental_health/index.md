@@ -1,5 +1,5 @@
 ---
-title: 'Optimizing Supporter Communications in Digital Mental Health: A Causal Framework'
+title: 'A Causal Framework for Latent Treatments: Evaluating Supporter Communications in Digital Mental Health Services'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,7 +14,7 @@ authors:
 # - 'Equal contribution'
 # - 'Equal contribution'
 
-date: '2026-01-16'
+date: '2026-07-21'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
