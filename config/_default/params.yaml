@@ -74,7 +74,6 @@ features:
     content_dir: content
     branch: master
   avatar:
-    url: uploads/avatar.jpg
     gravatar: false
     shape: circle
   comment:
