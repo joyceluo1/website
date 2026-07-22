@@ -32,7 +32,7 @@ item:
     title: 2026 INFORMS MSOM Conference Volunteer
     url: ''
   - certificate_url: 
-    date_end: '2025-03-01'
+    date_end: '2026-03-01'
     date_start: '2025-03-01'
     description: ''
     organization: INFORMS MSOM Conference
