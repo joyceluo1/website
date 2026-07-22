@@ -1,0 +1,104 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+{{ $author := $page.Params.author | default "admin" }}
+{{ $person_page_path := printf "/authors/%s" $author }}
+{{ $person_page := site.GetPage $person_page_path }}
+
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget or create a page at `%s`." $person_page_path $person_page_path }}
+{{ end }}
+
+{{ $person := $person_page.Params }}
+{{ $avatar := $person_page.Resources.GetMatch "avatar*" }}
+{{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
+
+<!-- About widget -->
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      {{ if $avatar }}
+      {{/* CHANGED: Boosted processing resolution from 270x270 to 600x600 for high-DPI/Retina screens */}}
+      {{ $avatar_image := $avatar.Fill "600x600 Center webp" }}
+      <img class="avatar {{if eq $avatar_shape "circle"}}circle{{end}}" src="{{ $avatar_image.RelPermalink }}" width="200" height="200" alt="{{$person_page.Title}}">
+      {{ end }}
+
+      <div class="portrait-title">
+        <h2>{{ $person_page.Title }}</h2>
+        {{ if $person.role }}<h3>{{ $person.role | markdownify | emojify }}</h3>{{ end }}
+
+        {{ range $person.organizations }}
+        <h3>
+          {{ if .url }}
+          <a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>
+          {{ else }}
+          <span>{{ .name }}</span>
+          {{ end }}
+        </h3>
+        {{ end }}
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        {{ range $person.social }}
+        {{ $pack := or .icon_pack "fas" }}
+        {{ $pack_prefix := $pack }}
+        {{ if hasPrefix $pack "fab" }}{{ $pack_prefix = "fab" }}{{ end }}
+        {{ $link := .link }}
+        {{ $scheme := (urls.Parse $link).Scheme }}
+        {{ $target := "" }}
+        {{ if not $scheme }}
+          {{ $link = .link | relLangURL }}
+        {{ else if in (slice "http" "https") $scheme }}
+          {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+        {{ end }}
+        <li>
+          <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
+            <i class="{{ $pack }} fa-{{ .icon }} fa-2x"></i>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    {{/* Only display main content if it exists */}}
+    {{ if $person_page.Content }}
+    <div class="article-style">{{ $person_page.Content }}</div>
+    {{ end }}
+
+    <div class="row">
+
+      {{ if $person.interests }}
+      <div class="col-md-5">
+        <h3>{{ i18n "interests" | markdownify }}</h3>
+        <ul class="ul-interests">
+          {{ range $person.interests }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{ if $person.education }}
+      <div class="col-md-7">
+        <h3>{{ i18n "education" | markdownify }}</h3>
+        <ul class="ul-edu fa-ul">
+          {{ range $person.education.courses }}
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">{{ .course }}{{ if .year }}, {{ .year }}{{ end }}</p>
+              <p class="institution">{{ .institution }}</p>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+    </div>
+  </div>
+</div>
