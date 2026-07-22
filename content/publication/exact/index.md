@@ -31,7 +31,7 @@ date: '2026-02-16'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: _Major Revision_ at Medical Decision Making
+publication: Major Revision at _Medical Decision Making_
 publication_short: 
 
 abstract: 
