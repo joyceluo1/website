@@ -19,7 +19,7 @@
     <div id="profile">
 
       {{ if $avatar }}
-      {{/* CHANGED: Boosted processing resolution from 270x270 to 600x600 for high-DPI/Retina screens */}}
+      {{/* High-res avatar rendering */}}
       {{ $avatar_image := $avatar.Fill "600x600 Center webp" }}
       <img class="avatar {{if eq $avatar_shape "circle"}}circle{{end}}" src="{{ $avatar_image.RelPermalink }}" width="200" height="200" alt="{{$person_page.Title}}">
       {{ end }}
@@ -42,8 +42,10 @@
       <ul class="network-icon" aria-hidden="true">
         {{ range $person.social }}
         {{ $pack := or .icon_pack "fas" }}
-        {{ $pack_prefix := $pack }}
-        {{ if hasPrefix $pack "fab" }}{{ $pack_prefix = "fab" }}{{ end }}
+        {{ $pack_prefix := "fa" }}
+        {{ if eq $pack "ai" }}
+          {{ $pack_prefix = "ai" }}
+        {{ end }}
         {{ $link := .link }}
         {{ $scheme := (urls.Parse $link).Scheme }}
         {{ $target := "" }}
@@ -54,7 +56,7 @@
         {{ end }}
         <li>
           <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
-            <i class="{{ $pack }} fa-{{ .icon }} fa-2x"></i>
+            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-2x"></i>
           </a>
         </li>
         {{ end }}
