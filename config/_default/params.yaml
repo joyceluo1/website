@@ -74,7 +74,7 @@ features:
     content_dir: content
     branch: master
   avatar:
-    url: uploads/luo_joyce_headshot.jpg
+    url: uploads/avatar.jpg
     gravatar: false
     shape: circle
   comment:
