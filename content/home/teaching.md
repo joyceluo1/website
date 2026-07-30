@@ -56,7 +56,7 @@ item:
     title: 15.730 Data, Models, and Decisions
     url: ''
   - certificate_url: 
-    date_end: '2024-05-20'
+    date_end: '2022-05-20'
     date_start: '2022-01-20'
     description: ''
     organization: Princeton Undergraduate Course
