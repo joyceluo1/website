@@ -67,5 +67,3 @@ highlight_name: true
 \
 \
 Hi! I'm a 5th year PhD candidate at the MIT Operations Research Center, advised by [Professor Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research interests are in healthcare and service operations management, with a particular focus on developing novel analytical methods, grounded in optimization, causal inference, machine learning, that can help companies, policy makers, and individuals make better decisions under uncertainty. I'm currently working on projects related to improving patient wait times and provider resource allocation for hospital diagnostic services, and evaluating therapist communications on digital mental health platforms. I am grateful to be supported by a National Science Foundation (NSF) Graduate Research Fellowship.
-
-I will be on the academic job market this fall!
