@@ -26,7 +26,7 @@ date: '2026-07-20'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Working paper
+publication: Soon to be submitted to _Management Science_
 publication_short: 
 
 abstract: 
