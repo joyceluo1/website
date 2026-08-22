@@ -1,5 +1,6 @@
 ---
 title: 'A Causal Framework for Latent Treatments: Evaluating Supporter Communications in Digital Mental Health Services'
+slug: 'poms-2026'
 
 event_url: ''
 
