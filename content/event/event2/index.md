@@ -1,6 +1,6 @@
 ---
 title: 'Equitable Data-Driven Resource Allocation to Fight the Opioid Epidemic: A Mixed-Integer Optimization Approach'
-
+slug: 'prd'
 event_url: ''
 
 location: Princeton Research Day
