@@ -16,6 +16,7 @@ authors:
 # - 'Equal contribution'
 
 date: '2026-08-21'
+doi: 'https://doi.org/10.1177/10591478261476253'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -47,7 +48,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://doi.org/10.1177/10591478261476253'
+url_source: ''
 url_video: ''
 
 # Featured image
