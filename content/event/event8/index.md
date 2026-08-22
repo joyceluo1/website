@@ -1,6 +1,6 @@
 ---
 title: 'Fair Online Hospital Diagnostic Service Scheduling: Helping Both Patients and Providers'
-
+slug: 'informs-2025'
 event_url: ''
 
 location: 2025 INFORMS Annual Meeting
