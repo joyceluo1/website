@@ -1,5 +1,6 @@
 ---
 title: 'A Causal Framework for Latent Treatments: Evaluating Supporter Communications in Digital Mental Health Services'
+slug: 'msom-2026'
 
 event_url: ''
 
