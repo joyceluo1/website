@@ -1,0 +1,26 @@
+{{ $is_list := .is_list | default 0 }}
+{{ $page := .page }}
+
+<div class="article-metadata">
+  {{/* Authors */}}
+  {{ if $page.Params.authors }}
+  <div>
+    {{ partial "page_metadata_authors" $page }}
+  </div>
+  {{ end }}
+
+  {{/* Date - Only shows if show_date is NOT false */}}
+  {{ if ne $page.Params.show_date false }}
+    {{ if not (in (slice "talk" "page") $page.Type) }}
+      <span class="article-date">
+        {{ $date := $page.Date.Format (site.Params.publications.date_format | default "2006") }}
+        <time datetime="{{ $page.Date }}">{{ $date }}</time>
+      </span>
+    {{ end }}
+  {{ end }}
+
+  {{/* Publication Venue/Status */}}
+  {{ if $page.Params.publication }}
+    <span class="pub-publication">{{ $page.Params.publication | markdownify }}</span>
+  {{ end }}
+</div>
