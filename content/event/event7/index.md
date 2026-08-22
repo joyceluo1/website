@@ -1,6 +1,6 @@
 ---
 title: 'Fair Online Hospital Diagnostic Service Scheduling: Helping Both Patients and Providers'
-
+slug: 'msom-2025'
 event_url: ''
 
 location: 2025 MSOM Conference
