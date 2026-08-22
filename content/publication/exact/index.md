@@ -19,7 +19,8 @@ authors:
 # - 'Equal contribution'
 # - 'Equal contribution'
 
-date: '2026-02-16'
+date: '2023-02-16'
+hide_date: true
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
