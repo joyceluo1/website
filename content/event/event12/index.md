@@ -16,7 +16,7 @@ date: '2026-11-01T16:15:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2026-01-01T00:00:00Z'
 
 authors: [Joyce Luo, Dessislava Pachamanova, Georgia Perakis]
 tags: []
