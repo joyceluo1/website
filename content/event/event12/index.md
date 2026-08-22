@@ -5,7 +5,7 @@ event_url: ''
 
 location: 2026 INFORMS Annual Meeting
 
-summary: Will be presenting in job market session _Operations for Good: Job Market Candidates Tackling Global Challenges_.
+summary: 'Will be presenting in job market session _Operations for Good: Job Market Candidates Tackling Global Challenges_.'
 
 abstract: 
 
