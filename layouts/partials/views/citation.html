@@ -13,7 +13,7 @@
     {{ $item.Params.publication | markdownify | replaceRE "</?p>" "" | safeHTML }}.
   {{ end }}
 
-  <div class="btn-links" style="margin-top: 0rem;">
+  <div class="btn-links" style="margin-top: -0.25rem !important;">
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
   </div>
 </div>
