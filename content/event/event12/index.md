@@ -1,6 +1,6 @@
 ---
 title: 'A Causal Framework for Latent Treatments: Evaluating Supporter Communications in Digital Mental Health Services'
-
+slug: 'informs-2026'
 event_url: ''
 
 location: 2026 INFORMS Annual Meeting
