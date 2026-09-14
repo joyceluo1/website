@@ -21,7 +21,7 @@ interests:
   - Healthcare Operations Management
   - Optimization
   - Decision Analytics
-  - Machine Learning
+  - AI/ML
 
 # Education to show in About widget
 education:
@@ -66,4 +66,4 @@ highlight_name: true
 ---
 \
 \
-Hi! I'm a 5th year PhD candidate at the MIT Operations Research Center, advised by [Professor Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research interests are in healthcare and service operations management, with a particular focus on developing novel analytical methods, grounded in optimization, causal inference, and machine learning, that can help companies, policy makers, and individuals make better decisions under uncertainty. I'm currently working on projects related to improving patient wait times and provider resource allocation for hospital diagnostic services, and evaluating therapist communications on digital mental health platforms. I am grateful to be supported by a National Science Foundation (NSF) Graduate Research Fellowship.
+Hi! I'm a 5th year PhD candidate at the MIT Operations Research Center, advised by [Professor Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research aims to help make healthcare more equitable and efficient for both patients and providers of care, spanning a variety of healthcare systems including public health, hospital, and telehealth systems. To accomplish this, I develop data-driven models and algorithms that integrate optimization, causal inference, and AI/ML, and work closely with clinicians, hospital administrators, and industry partners. In partnership with the digital mental health platform, SilverCloud by Amwell, I am evaluating therapist communications to help improve patient engagement and outcomes. In collaboration with UMass Memorial Hospital, I have worked on improving patient wait times and provider resource allocation for hospital diagnostic services. I am grateful to be supported by a National Science Foundation (NSF) Graduate Research Fellowship.
