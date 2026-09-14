@@ -21,7 +21,7 @@ interests:
   - Healthcare Operations Management
   - Optimization
   - Decision Analytics
-  - AI/ML
+  - Machine Learning
 
 # Education to show in About widget
 education:
@@ -66,4 +66,4 @@ highlight_name: true
 ---
 \
 \
-Hi! I'm a 5th year PhD candidate at the MIT Operations Research Center, advised by [Professor Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research aims to help make healthcare more equitable and efficient for both patients and providers of care, spanning a variety of healthcare systems including public health, hospital, and telehealth systems. To accomplish this, I develop data-driven models and algorithms that integrate optimization, causal inference, and AI/ML, and work closely with clinicians, hospital administrators, and industry partners. In partnership with the digital mental health platform, SilverCloud by Amwell, I am evaluating therapist communications to help improve patient engagement and outcomes. In collaboration with UMass Memorial Hospital, I have worked on improving patient wait times and provider resource allocation for hospital diagnostic services. I am grateful to be supported by a National Science Foundation (NSF) Graduate Research Fellowship.
+Hi! I'm a 5th year PhD candidate at the MIT Operations Research Center, advised by [Professor Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research aims to help make healthcare more equitable and efficient for both patients and providers of care, spanning a variety of healthcare systems including public health, hospital, and telehealth systems. To accomplish this, I develop data-driven models and algorithms that integrate optimization, causal inference, and machine learning, and work closely with clinicians, hospital administrators, and industry partners. In collaboration with the digital mental health platform, SilverCloud by Amwell, I am evaluating therapist communications to help improve patient engagement and outcomes. In partnership with UMass Memorial Hospital, I have worked on improving patient wait times and provider resource allocation for hospital diagnostic services. I am grateful to be supported by a National Science Foundation (NSF) Graduate Research Fellowship.
