@@ -1,5 +1,5 @@
 ---
-title: 'A Causal Framework for Latent Treatments: Evaluating Supporter Communications in Digital Mental Health Services'
+title: 'Discovering Latent Treatments in Unstructured Observational Data: A Framework for Causal Effect Estimation and Personalized Intervention Design'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
