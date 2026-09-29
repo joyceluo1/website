@@ -70,4 +70,4 @@ Hi! I'm a 5th year PhD candidate at the MIT Operations Research Center, advised 
 
 **I am on the 2026-27 academic job market!**
 
-I will be presenting at the 2026 INFORMS Annual Meeting in Session SE13 on Sunday, November 1st from 4:15-5:30pm in Moscone South-151!
+I will be presenting at the 2026 INFORMS Annual Meeting in Session SE13 on Sunday, November 1st from 4:15 - 5:30pm in Moscone South-151!
